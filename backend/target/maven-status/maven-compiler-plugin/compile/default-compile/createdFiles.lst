@@ -1,0 +1,9 @@
+com\nexatech\model\Enquiry.class
+com\nexatech\dto\StatusUpdateRequest.class
+com\nexatech\config\CorsConfig$1.class
+com\nexatech\NexaTechApplication.class
+com\nexatech\repository\EnquiryRepository.class
+com\nexatech\config\CorsConfig.class
+com\nexatech\dto\EnquiryRequest.class
+com\nexatech\service\EnquiryService.class
+com\nexatech\controller\EnquiryController.class
